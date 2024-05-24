@@ -17,15 +17,15 @@
 
 ***Packages installed***
 
--Mediapipe.
+- Mediapipe.
 
--cvzone.
+- cvzone.
 
--Opencv-python.
+- Opencv-python.
 
--Tellopy.
+- Tellopy.
 
--Pillow.
+- Pillow.
 
 ***Components***
 
